@@ -4,7 +4,7 @@
 
 >  The page is an application of a nft card.
 
-Check the Application: 
+Check the Application: https://nft-card-swart.vercel.app/
 ## 📁 Pages
 
 The project has only one page:
